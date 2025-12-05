@@ -122,9 +122,9 @@ function App() {
         <div className="w-full md:w-80 bg-slate-900/50 p-8 border-r border-slate-700 flex flex-col justify-between">
             <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-indigo-500 bg-clip-text text-transparent mb-1">
-                    Cipta PDF
+                    Cipta PDF Converter
                 </h1>
-                <p className="text-xs text-slate-500 mb-8">Secure Client-Side Converter</p>
+                <p className="text-xs text-slate-500 mb-8">Secure Client-Side Converter by imadprakoso</p>
 
                 {/* Setting DPI */}
                 <div className="mb-6">
